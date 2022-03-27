@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dant4lion.Domain", "Dant4li
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dant4lion.Service", "Dant4lion.Service\Dant4lion.Service.csproj", "{F9A3B6DD-3562-472D-B9D9-98CEFF4BBE6E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dant4lion.ServerSide", "Dant4lion.ServerSide\Dant4lion.ServerSide.csproj", "{A11056F6-5936-430A-AD37-D8C38CA4DA3C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{F9A3B6DD-3562-472D-B9D9-98CEFF4BBE6E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F9A3B6DD-3562-472D-B9D9-98CEFF4BBE6E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F9A3B6DD-3562-472D-B9D9-98CEFF4BBE6E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A11056F6-5936-430A-AD37-D8C38CA4DA3C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A11056F6-5936-430A-AD37-D8C38CA4DA3C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A11056F6-5936-430A-AD37-D8C38CA4DA3C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A11056F6-5936-430A-AD37-D8C38CA4DA3C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
