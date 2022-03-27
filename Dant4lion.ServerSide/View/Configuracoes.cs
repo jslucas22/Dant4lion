@@ -10,16 +10,11 @@ using System.Windows.Forms;
 
 namespace Dant4lion.ServerSide.View
 {
-    public partial class Main : Form
+    public partial class Configuracoes : Form
     {
-        public Main()
+        public Configuracoes()
         {
             InitializeComponent();
-        }
-
-        private void picConfiguracoes_Click(object sender, EventArgs e)
-        {
-            new Configuracoes().ShowDialog();
         }
     }
 }

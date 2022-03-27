@@ -98,6 +98,7 @@
             this.picConfiguracoes.Size = new System.Drawing.Size(24, 24);
             this.picConfiguracoes.TabIndex = 1;
             this.picConfiguracoes.TabStop = false;
+            this.picConfiguracoes.Click += new System.EventHandler(this.picConfiguracoes_Click);
             // 
             // picGerarExecutavel
             // 
