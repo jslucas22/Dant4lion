@@ -10,16 +10,11 @@ using System.Windows.Forms;
 
 namespace Dant4lion.ServerSide.View
 {
-    public partial class Login : Form
+    public partial class Main : Form
     {
-        public Login()
+        public Main()
         {
             InitializeComponent();
-        }
-
-        private void btnLogin_Click(object sender, EventArgs e)
-        {
-            new Main().ShowDialog();
         }
     }
 }
