@@ -124,7 +124,7 @@ namespace Dant4lion.ServerSide.View
             // btnSalvar
             // 
             this.btnSalvar.Cursor = System.Windows.Forms.Cursors.Hand;
-            this.btnSalvar.Image = global::Dant4lion.ServerSide.Properties.Resources.save_as_15px;
+            this.btnSalvar.Image = global::Dant4lion.ServerSide.Properties.Resources.save_as_18px;
             this.btnSalvar.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
             this.btnSalvar.Location = new System.Drawing.Point(198, 253);
             this.btnSalvar.Name = "btnSalvar";

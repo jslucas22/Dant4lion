@@ -103,6 +103,16 @@ namespace Dant4lion.ServerSide.Properties {
         /// <summary>
         ///   Consulta um recurso localizado do tipo System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap save_as_18px {
+            get {
+                object obj = ResourceManager.GetObject("save_as_18px", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Consulta um recurso localizado do tipo System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap services_24px {
             get {
                 object obj = ResourceManager.GetObject("services_24px", resourceCulture);
