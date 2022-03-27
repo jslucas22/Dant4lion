@@ -6,8 +6,8 @@
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <ProjectGuid>{40AEF615-9538-4073-BFFC-9F7851F22C04}</ProjectGuid>
     <OutputType>WinExe</OutputType>
-    <RootNamespace>Dant4lion</RootNamespace>
-    <AssemblyName>Dant4lion</AssemblyName>
+    <RootNamespace>Dant4lion.ClientSide</RootNamespace>
+    <AssemblyName>Dant4lion.ClientSide</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -62,6 +62,7 @@
     <Compile Include="Properties\Resources.Designer.cs">
       <AutoGen>True</AutoGen>
       <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
     </Compile>
     <EmbeddedResource Include="View\Login.resx">
       <DependentUpon>Login.cs</DependentUpon>

@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.32002.261
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dant4lion", "Dant4lion\Dant4lion.csproj", "{40AEF615-9538-4073-BFFC-9F7851F22C04}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dant4lion.ClientSide", "Dant4lion\Dant4lion.ClientSide.csproj", "{40AEF615-9538-4073-BFFC-9F7851F22C04}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dant4lion.Domain", "Dant4lion.Domain\Dant4lion.Domain.csproj", "{45B00BE0-D43E-4FC7-8B92-E1D788F20AE0}"
 EndProject
