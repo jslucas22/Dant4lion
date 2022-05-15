@@ -63,6 +63,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Interfaces\ITransmissor.cs" />
     <Compile Include="Models\ConexaoTcp.cs" />
     <Compile Include="Models\FragmentoArquivo.cs" />
     <Compile Include="Models\Processo.cs" />
