@@ -116,5 +116,11 @@
   <ItemGroup>
     <None Include="Resources\save_as_18px.png" />
   </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Dant4lion.Service\Dant4lion.Service.csproj">
+      <Project>{F9A3B6DD-3562-472D-B9D9-98CEFF4BBE6E}</Project>
+      <Name>Dant4lion.Service</Name>
+    </ProjectReference>
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

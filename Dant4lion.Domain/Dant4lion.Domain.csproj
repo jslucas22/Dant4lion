@@ -69,6 +69,7 @@
     <Compile Include="Models\Processo.cs" />
     <Compile Include="Models\SistemaDeArquivos.cs" />
     <Compile Include="Models\Unidade.cs" />
+    <Compile Include="Models\Usuario.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
